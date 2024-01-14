@@ -12,5 +12,5 @@ git clone https://github.com/InternLM/InternLM.git
 
 cp app.py InternLM/
 
-
-streamlit run InternLM/app.py
+cd InternLMs
+streamlit run app.py
