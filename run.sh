@@ -13,4 +13,4 @@ git clone https://github.com/InternLM/InternLM.git
 cp app.py InternLM/
 
 
-streamlit run InternLM/app.py --server.address=0.0.0.0 --server.port 7860
+streamlit run InternLM/app.py
